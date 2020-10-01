@@ -1,0 +1,47 @@
+body {
+    background-color: slategray;
+    opacity: 0.75;
+}
+
+h1, h2 {
+    
+    color: rgb(44, 86, 105);
+}
+
+h1 {
+    font-size: 40px;
+    background-color: slategray;
+    text-align: center
+}
+
+p {
+    text-align: justify;
+}
+
+section {
+    background-color: slategray
+}
+
+h2 {
+    font-size: 30px;
+    text-align: left;
+    opacity: 1;
+}
+
+.photo {
+    float: right;
+}
+
+section {
+    text-align: left;
+}
+
+div {
+    margin: auto
+}
+
+h2 {
+    border: 3px rgb(44, 86, 105) solid;
+    border-radius: 10px;
+}
+
