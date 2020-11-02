@@ -1,5 +1,5 @@
 body {
-    font-family:"times new roman", times, serif;
+    font-family:"futura", times, serif;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(3, auto);
@@ -17,6 +17,9 @@ h1, h2 {
     color: rgb(44, 86, 105);
 }
 
+p {
+    font-size: 18px;
+}
 
 h1 {
    
@@ -24,8 +27,8 @@ h1 {
     padding-bottom: 10px;
     font-size: 40px;
     font-family: 
-    background-color: rgb(129, 165, 201);
-    text-align: center
+    background-colorrgb(129, 165, 201);
+    text-align: center;
     
 }
 
@@ -40,13 +43,13 @@ h2 {
     border-radius: 10px;
 }
 
-a {
+li {
     font-size: 18px;
     font-weight: normal;
     text-decoration: rgb(44, 86, 105);
 
 }
-p {
+.blop {
     text-align: justify;
 }
 
